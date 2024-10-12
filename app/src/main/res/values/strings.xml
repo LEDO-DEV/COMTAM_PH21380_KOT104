@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_PH21380_KOT104</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_ho_tro">HoTro</string>
+    <string name="title_activity_trang_chu">TrangChu</string>
+    <string name="title_activity_man_hinh_thanh_toan">ManHinhThanhToan</string>
+    <string name="title_activity_chi_tiet_don_hang">ChiTietDonHang</string>
+</resources>
